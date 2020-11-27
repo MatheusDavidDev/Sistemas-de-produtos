@@ -11,3 +11,16 @@ C:\Users\dev\Desktop\Sistemas de produtos\bin\Debug\netcoreapp3.1\Sistemas de pr
 C:\Users\dev\Desktop\Sistemas de produtos\obj\Debug\netcoreapp3.1\Sistemas de produtos.dll
 C:\Users\dev\Desktop\Sistemas de produtos\obj\Debug\netcoreapp3.1\Sistemas de produtos.pdb
 C:\Users\dev\Desktop\Sistemas de produtos\obj\Debug\netcoreapp3.1\Sistemas de produtos.genruntimeconfig.cache
+C:\Users\dev\Desktop\Sistemas-de-produtos\Sistemas de produtos\bin\Debug\netcoreapp3.1\Sistemas de produtos.exe
+C:\Users\dev\Desktop\Sistemas-de-produtos\Sistemas de produtos\bin\Debug\netcoreapp3.1\Sistemas de produtos.deps.json
+C:\Users\dev\Desktop\Sistemas-de-produtos\Sistemas de produtos\bin\Debug\netcoreapp3.1\Sistemas de produtos.runtimeconfig.json
+C:\Users\dev\Desktop\Sistemas-de-produtos\Sistemas de produtos\bin\Debug\netcoreapp3.1\Sistemas de produtos.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Sistemas-de-produtos\Sistemas de produtos\bin\Debug\netcoreapp3.1\Sistemas de produtos.dll
+C:\Users\dev\Desktop\Sistemas-de-produtos\Sistemas de produtos\bin\Debug\netcoreapp3.1\Sistemas de produtos.pdb
+C:\Users\dev\Desktop\Sistemas-de-produtos\Sistemas de produtos\obj\Debug\netcoreapp3.1\Sistemas de produtos.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Sistemas-de-produtos\Sistemas de produtos\obj\Debug\netcoreapp3.1\Sistemas de produtos.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Sistemas-de-produtos\Sistemas de produtos\obj\Debug\netcoreapp3.1\Sistemas de produtos.AssemblyInfo.cs
+C:\Users\dev\Desktop\Sistemas-de-produtos\Sistemas de produtos\obj\Debug\netcoreapp3.1\Sistemas de produtos.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Sistemas-de-produtos\Sistemas de produtos\obj\Debug\netcoreapp3.1\Sistemas de produtos.dll
+C:\Users\dev\Desktop\Sistemas-de-produtos\Sistemas de produtos\obj\Debug\netcoreapp3.1\Sistemas de produtos.pdb
+C:\Users\dev\Desktop\Sistemas-de-produtos\Sistemas de produtos\obj\Debug\netcoreapp3.1\Sistemas de produtos.genruntimeconfig.cache

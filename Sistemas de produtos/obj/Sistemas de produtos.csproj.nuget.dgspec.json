@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dev\\Desktop\\Sistemas de produtos\\Sistemas de produtos.csproj": {}
+    "C:\\Users\\dev\\Desktop\\Sistemas-de-produtos\\Sistemas de produtos\\Sistemas de produtos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dev\\Desktop\\Sistemas de produtos\\Sistemas de produtos.csproj": {
+    "C:\\Users\\dev\\Desktop\\Sistemas-de-produtos\\Sistemas de produtos\\Sistemas de produtos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dev\\Desktop\\Sistemas de produtos\\Sistemas de produtos.csproj",
+        "projectUniqueName": "C:\\Users\\dev\\Desktop\\Sistemas-de-produtos\\Sistemas de produtos\\Sistemas de produtos.csproj",
         "projectName": "Sistemas de produtos",
-        "projectPath": "C:\\Users\\dev\\Desktop\\Sistemas de produtos\\Sistemas de produtos.csproj",
+        "projectPath": "C:\\Users\\dev\\Desktop\\Sistemas-de-produtos\\Sistemas de produtos\\Sistemas de produtos.csproj",
         "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dev\\Desktop\\Sistemas de produtos\\obj\\",
+        "outputPath": "C:\\Users\\dev\\Desktop\\Sistemas-de-produtos\\Sistemas de produtos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dev\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -15,15 +15,70 @@ namespace Sistemas_de_produtos
             // - CadastrarProduto
             // - ListarProdutos
             //  - MostrarMenu
+            //Usuario adm tem que ser o mesmo que a senha
+            //quando abrir vai aparecer o menu 
+            //cadastrar o usuario novos
+            //MENU DE CADASTRO 
+            //MENU DE ADM
             string[] nome = new string[10];
             float[] preco = new float[10];
             string[] promo1 = new string[10];
             Console.Clear();
             Console.WriteLine("Sistema de produtos");
-
             int opcao;
             int contador = 0; 
             bool promocao;
+            int login;
+            bool loginADM;
+            bool senhaADM;
+
+            do
+            {   
+                Console.WriteLine("Realizar loguin");
+                Console.WriteLine("[1] Sou o Adiministrador");
+                Console.WriteLine("[2] Sou funcionario");
+                login = int.Parse(Console.ReadLine());
+
+                switch (login)
+                {
+                    case 1:
+                        //LOGIN DO ADM
+                            do
+                            {
+                                Console.WriteLine("Digite o login de administrador");
+                                string logindeadm = Console.ReadLine();
+                                loginADM = Loginadmf(logindeadm);
+                            
+                            } while (!loginADM);
+                        //SENHA DO ADM
+                            do
+                            {
+                                Console.WriteLine("Digite agora a senha de administrador");
+                                string senhadoadm = Console.ReadLine();
+                                senhaADM = Senhaadmf(senhadoadm);
+                            
+                            } while (!senhaADM);
+
+                        //MENU DO ADM
+                            do
+                            {
+                                Console.WriteLine("MENU do Adiministrador");
+                                Console.WriteLine("[1] Cadastrar um novo usurio");
+                                Console.WriteLine("[2] Ver usuarios cadastrados");
+
+                            } while (false);
+                        break;
+                    case 2:
+                        break;
+                    default:
+                        break;
+                }
+                
+            } while (false);
+
+
+
+
 
             do
             {   
@@ -84,7 +139,7 @@ namespace Sistemas_de_produtos
                         break;
 
                     default:
-                        Console.WriteLine("Essa opção é invalida");
+                        Console.WriteLine("Essa opção é invalida!");
                         break;
                 }
                 
@@ -93,6 +148,7 @@ namespace Sistemas_de_produtos
 
             //Minha função
             bool Promocoes(string promo){
+
                 if (promo == "s")
                 {
                     Console.WriteLine("O Produto esta em promoção");
@@ -104,6 +160,31 @@ namespace Sistemas_de_produtos
                     return false;
                 }
             } 
+
+            bool Loginadmf(string loginadm){
+
+                if (loginadm == "adm")
+                {
+                    return true;
+                }
+                else{
+                    Console.WriteLine("Login de administrador errado");
+                    return false;
+                }
+            }
+
+            bool Senhaadmf(string senhaadm){
+
+                if (senhaadm == "12345")
+                {
+                    return true;
+                }
+                else{
+                    Console.WriteLine("Senha de administrador errada");
+                    return false;
+                }
+            }
+
         }
     }
 }
